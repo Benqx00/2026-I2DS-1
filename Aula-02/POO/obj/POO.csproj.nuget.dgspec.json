@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-02\\POO\\POO.csproj": {}
+    "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-02\\POO\\POO.csproj": {}
   },
   "projects": {
-    "c:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-02\\POO\\POO.csproj": {
+    "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-02\\POO\\POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-02\\POO\\POO.csproj",
+        "projectUniqueName": "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-02\\POO\\POO.csproj",
         "projectName": "POO",
-        "projectPath": "c:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-02\\POO\\POO.csproj",
+        "projectPath": "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-02\\POO\\POO.csproj",
         "packagesPath": "C:\\Users\\SP-Skills\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-02\\POO\\obj\\",
+        "outputPath": "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-02\\POO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
