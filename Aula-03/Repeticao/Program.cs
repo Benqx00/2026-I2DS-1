@@ -41,7 +41,7 @@
         }
 
         /* Solicitar a senha até acertar */
-        string senha = "2444";
+        string senha = "";
         while(senha != "2444")
         {
             Console.Write("Digite a Senha: ");

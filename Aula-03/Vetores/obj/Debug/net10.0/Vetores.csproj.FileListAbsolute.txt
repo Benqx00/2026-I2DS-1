@@ -1,0 +1,15 @@
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Vetores\bin\Debug\net10.0\Vetores.exe
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Vetores\bin\Debug\net10.0\Vetores.deps.json
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Vetores\bin\Debug\net10.0\Vetores.runtimeconfig.json
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Vetores\bin\Debug\net10.0\Vetores.dll
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Vetores\bin\Debug\net10.0\Vetores.pdb
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Vetores\obj\Debug\net10.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Vetores\obj\Debug\net10.0\Vetores.AssemblyInfoInputs.cache
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Vetores\obj\Debug\net10.0\Vetores.AssemblyInfo.cs
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Vetores\obj\Debug\net10.0\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Vetores\obj\Debug\net10.0\Vetores.sourcelink.json
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Vetores\obj\Debug\net10.0\Vetores.dll
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Vetores\obj\Debug\net10.0\refint\Vetores.dll
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Vetores\obj\Debug\net10.0\Vetores.pdb
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Vetores\obj\Debug\net10.0\Vetores.genruntimeconfig.cache
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Vetores\obj\Debug\net10.0\ref\Vetores.dll
