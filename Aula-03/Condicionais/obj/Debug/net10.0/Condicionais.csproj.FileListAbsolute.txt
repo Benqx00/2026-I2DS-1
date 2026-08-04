@@ -1,0 +1,15 @@
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Condicionais\bin\Debug\net10.0\Condicionais.exe
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Condicionais\bin\Debug\net10.0\Condicionais.deps.json
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Condicionais\bin\Debug\net10.0\Condicionais.runtimeconfig.json
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Condicionais\bin\Debug\net10.0\Condicionais.dll
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Condicionais\bin\Debug\net10.0\Condicionais.pdb
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\Condicionais.AssemblyInfoInputs.cache
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\Condicionais.AssemblyInfo.cs
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\Condicionais.sourcelink.json
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\Condicionais.dll
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\refint\Condicionais.dll
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\Condicionais.pdb
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\Condicionais.genruntimeconfig.cache
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Condicionais\obj\Debug\net10.0\ref\Condicionais.dll
