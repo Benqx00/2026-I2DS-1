@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Funcao\\Funcao.csproj": {}
+    "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Funcao\\Funcao.csproj": {}
   },
   "projects": {
-    "c:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Funcao\\Funcao.csproj": {
+    "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Funcao\\Funcao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Funcao\\Funcao.csproj",
+        "projectUniqueName": "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Funcao\\Funcao.csproj",
         "projectName": "Funcao",
-        "projectPath": "c:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Funcao\\Funcao.csproj",
+        "projectPath": "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Funcao\\Funcao.csproj",
         "packagesPath": "C:\\Users\\SP-Skills\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Funcao\\obj\\",
+        "outputPath": "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Funcao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
