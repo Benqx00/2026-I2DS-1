@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Repeticao\\Repeticao.csproj": {}
+    "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Repeticao\\Repeticao.csproj": {}
   },
   "projects": {
-    "c:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Repeticao\\Repeticao.csproj": {
+    "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Repeticao\\Repeticao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Repeticao\\Repeticao.csproj",
+        "projectUniqueName": "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Repeticao\\Repeticao.csproj",
         "projectName": "Repeticao",
-        "projectPath": "c:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Repeticao\\Repeticao.csproj",
+        "projectPath": "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Repeticao\\Repeticao.csproj",
         "packagesPath": "C:\\Users\\SP-Skills\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Repeticao\\obj\\",
+        "outputPath": "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-03\\Repeticao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
