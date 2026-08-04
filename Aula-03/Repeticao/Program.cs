@@ -30,5 +30,30 @@
             Console.WriteLine(numero);
         }
 
+        /*******************************************************/
+        Console.WriteLine("Imprimir numeros de 1 até 10, utilizando o laço while.");
+
+        int contador = 1;
+        while (contador <= 10)
+        {
+            Console.WriteLine(contador);
+            contador++;
+        }
+
+        /* Solicitar a senha até acertar */
+        string senha = "2444";
+        while(senha != "2444")
+        {
+            Console.Write("Digite a Senha: ");
+            senha = Console.ReadLine();
+        }
+        Console.WriteLine("Acesso permitido!");
+        /*********************************************************/
+        int num;
+        do
+        {
+            Console.Write("Digite um Numero Positivo: ");
+            num = int.Parse(Console.ReadLine());
+        }while(num <=0);
     }
 }
