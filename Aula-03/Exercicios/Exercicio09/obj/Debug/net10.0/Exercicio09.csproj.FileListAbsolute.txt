@@ -1,0 +1,15 @@
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Exercicios\Exercicio09\bin\Debug\net10.0\Exercicio09.exe
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Exercicios\Exercicio09\bin\Debug\net10.0\Exercicio09.deps.json
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Exercicios\Exercicio09\bin\Debug\net10.0\Exercicio09.runtimeconfig.json
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Exercicios\Exercicio09\bin\Debug\net10.0\Exercicio09.dll
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Exercicios\Exercicio09\bin\Debug\net10.0\Exercicio09.pdb
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Exercicios\Exercicio09\obj\Debug\net10.0\Exercicio09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Exercicios\Exercicio09\obj\Debug\net10.0\Exercicio09.AssemblyInfoInputs.cache
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Exercicios\Exercicio09\obj\Debug\net10.0\Exercicio09.AssemblyInfo.cs
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Exercicios\Exercicio09\obj\Debug\net10.0\Exercicio09.csproj.CoreCompileInputs.cache
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Exercicios\Exercicio09\obj\Debug\net10.0\Exercicio09.sourcelink.json
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Exercicios\Exercicio09\obj\Debug\net10.0\Exercicio09.dll
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Exercicios\Exercicio09\obj\Debug\net10.0\refint\Exercicio09.dll
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Exercicios\Exercicio09\obj\Debug\net10.0\Exercicio09.pdb
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Exercicios\Exercicio09\obj\Debug\net10.0\Exercicio09.genruntimeconfig.cache
+C:\Users\SP-Skills\Documents\2026-I2DS\Aula-03\Exercicios\Exercicio09\obj\Debug\net10.0\ref\Exercicio09.dll
