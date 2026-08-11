@@ -1,0 +1,15 @@
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-06-07\ContaProtegida\bin\Debug\net10.0\ContaProtegida.exe
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-06-07\ContaProtegida\bin\Debug\net10.0\ContaProtegida.deps.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-06-07\ContaProtegida\bin\Debug\net10.0\ContaProtegida.runtimeconfig.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-06-07\ContaProtegida\bin\Debug\net10.0\ContaProtegida.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-06-07\ContaProtegida\bin\Debug\net10.0\ContaProtegida.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-06-07\ContaProtegida\obj\Debug\net10.0\ContaProtegida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-06-07\ContaProtegida\obj\Debug\net10.0\ContaProtegida.AssemblyInfoInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-06-07\ContaProtegida\obj\Debug\net10.0\ContaProtegida.AssemblyInfo.cs
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-06-07\ContaProtegida\obj\Debug\net10.0\ContaProtegida.csproj.CoreCompileInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-06-07\ContaProtegida\obj\Debug\net10.0\ContaProtegida.sourcelink.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-06-07\ContaProtegida\obj\Debug\net10.0\ContaProtegida.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-06-07\ContaProtegida\obj\Debug\net10.0\refint\ContaProtegida.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-06-07\ContaProtegida\obj\Debug\net10.0\ContaProtegida.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-06-07\ContaProtegida\obj\Debug\net10.0\ContaProtegida.genruntimeconfig.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-06-07\ContaProtegida\obj\Debug\net10.0\ref\ContaProtegida.dll

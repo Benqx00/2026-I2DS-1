@@ -1,0 +1,15 @@
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-02\Aluno\bin\Debug\net10.0\Aluno.exe
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-02\Aluno\bin\Debug\net10.0\Aluno.deps.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-02\Aluno\bin\Debug\net10.0\Aluno.runtimeconfig.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-02\Aluno\bin\Debug\net10.0\Aluno.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-02\Aluno\bin\Debug\net10.0\Aluno.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-02\Aluno\obj\Debug\net10.0\Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-02\Aluno\obj\Debug\net10.0\Aluno.AssemblyInfoInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-02\Aluno\obj\Debug\net10.0\Aluno.AssemblyInfo.cs
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-02\Aluno\obj\Debug\net10.0\Aluno.csproj.CoreCompileInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-02\Aluno\obj\Debug\net10.0\Aluno.sourcelink.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-02\Aluno\obj\Debug\net10.0\Aluno.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-02\Aluno\obj\Debug\net10.0\refint\Aluno.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-02\Aluno\obj\Debug\net10.0\Aluno.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-02\Aluno\obj\Debug\net10.0\Aluno.genruntimeconfig.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-02\Aluno\obj\Debug\net10.0\ref\Aluno.dll

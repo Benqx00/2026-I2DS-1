@@ -1,0 +1,15 @@
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-05\Pessoa\bin\Debug\net10.0\Pessoa.exe
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-05\Pessoa\bin\Debug\net10.0\Pessoa.deps.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-05\Pessoa\bin\Debug\net10.0\Pessoa.runtimeconfig.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-05\Pessoa\bin\Debug\net10.0\Pessoa.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-05\Pessoa\bin\Debug\net10.0\Pessoa.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-05\Pessoa\obj\Debug\net10.0\Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-05\Pessoa\obj\Debug\net10.0\Pessoa.AssemblyInfoInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-05\Pessoa\obj\Debug\net10.0\Pessoa.AssemblyInfo.cs
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-05\Pessoa\obj\Debug\net10.0\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-05\Pessoa\obj\Debug\net10.0\Pessoa.sourcelink.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-05\Pessoa\obj\Debug\net10.0\Pessoa.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-05\Pessoa\obj\Debug\net10.0\refint\Pessoa.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-05\Pessoa\obj\Debug\net10.0\Pessoa.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-05\Pessoa\obj\Debug\net10.0\Pessoa.genruntimeconfig.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-05\Pessoa\obj\Debug\net10.0\ref\Pessoa.dll

@@ -1,0 +1,15 @@
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-03\Produto\bin\Debug\net10.0\Produto.exe
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-03\Produto\bin\Debug\net10.0\Produto.deps.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-03\Produto\bin\Debug\net10.0\Produto.runtimeconfig.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-03\Produto\bin\Debug\net10.0\Produto.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-03\Produto\bin\Debug\net10.0\Produto.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-03\Produto\obj\Debug\net10.0\Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-03\Produto\obj\Debug\net10.0\Produto.AssemblyInfoInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-03\Produto\obj\Debug\net10.0\Produto.AssemblyInfo.cs
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-03\Produto\obj\Debug\net10.0\Produto.csproj.CoreCompileInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-03\Produto\obj\Debug\net10.0\Produto.sourcelink.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-03\Produto\obj\Debug\net10.0\Produto.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-03\Produto\obj\Debug\net10.0\refint\Produto.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-03\Produto\obj\Debug\net10.0\Produto.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-03\Produto\obj\Debug\net10.0\Produto.genruntimeconfig.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-03\Produto\obj\Debug\net10.0\ref\Produto.dll

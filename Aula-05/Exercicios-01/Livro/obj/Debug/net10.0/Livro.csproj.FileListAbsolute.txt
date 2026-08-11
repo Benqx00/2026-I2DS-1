@@ -1,0 +1,15 @@
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-01\Livro\bin\Debug\net10.0\Livro.exe
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-01\Livro\bin\Debug\net10.0\Livro.deps.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-01\Livro\bin\Debug\net10.0\Livro.runtimeconfig.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-01\Livro\bin\Debug\net10.0\Livro.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-01\Livro\bin\Debug\net10.0\Livro.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-01\Livro\obj\Debug\net10.0\Livro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-01\Livro\obj\Debug\net10.0\Livro.AssemblyInfoInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-01\Livro\obj\Debug\net10.0\Livro.AssemblyInfo.cs
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-01\Livro\obj\Debug\net10.0\Livro.csproj.CoreCompileInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-01\Livro\obj\Debug\net10.0\Livro.sourcelink.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-01\Livro\obj\Debug\net10.0\Livro.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-01\Livro\obj\Debug\net10.0\refint\Livro.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-01\Livro\obj\Debug\net10.0\Livro.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-01\Livro\obj\Debug\net10.0\Livro.genruntimeconfig.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicios-01\Livro\obj\Debug\net10.0\ref\Livro.dll
