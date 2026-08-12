@@ -36,7 +36,7 @@
             if (dano <= 0) return;
             Vida -= dano;
             if (Vida < 0) Vida = 0;
-            Console.WriteLine($"{Nome} sofreu {dano} de dano! Vida atual: {tVida}");
+            Console.WriteLine($"{Nome} sofreu {dano} de dano! Vida atual: {Vida}");
         }
 
         public bool EstaVivo()
@@ -74,7 +74,7 @@
     public class Elfo : Personagem
     {
         public Elfo(string nome, int nivel, int forca, int agilidade, int inteligencia, int vida)
-            : base(nome, nivel, forca, agilidade, inteligencia, vida) { }
+            : base(nome, nivel, forca, agilidade, inteligencia, vida) {}
 
         public override void Atacar(Personagem alvo)
         {
@@ -102,7 +102,7 @@
         }
     }
 
-    // Conta quantos personagens do array ainda estão vivos
+    
     private static int ContarVivos(Personagem[] lutadores)
     {
         int vivos = 0;
