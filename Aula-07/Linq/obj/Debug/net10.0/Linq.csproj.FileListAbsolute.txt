@@ -1,0 +1,15 @@
+C:\Users\DS1\Desktop\2026-I2DS\Aula-07\Linq\bin\Debug\net10.0\Linq.exe
+C:\Users\DS1\Desktop\2026-I2DS\Aula-07\Linq\bin\Debug\net10.0\Linq.deps.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-07\Linq\bin\Debug\net10.0\Linq.runtimeconfig.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-07\Linq\bin\Debug\net10.0\Linq.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-07\Linq\bin\Debug\net10.0\Linq.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-07\Linq\obj\Debug\net10.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DS1\Desktop\2026-I2DS\Aula-07\Linq\obj\Debug\net10.0\Linq.AssemblyInfoInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-07\Linq\obj\Debug\net10.0\Linq.AssemblyInfo.cs
+C:\Users\DS1\Desktop\2026-I2DS\Aula-07\Linq\obj\Debug\net10.0\Linq.csproj.CoreCompileInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-07\Linq\obj\Debug\net10.0\Linq.sourcelink.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-07\Linq\obj\Debug\net10.0\Linq.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-07\Linq\obj\Debug\net10.0\refint\Linq.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-07\Linq\obj\Debug\net10.0\Linq.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-07\Linq\obj\Debug\net10.0\Linq.genruntimeconfig.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-07\Linq\obj\Debug\net10.0\ref\Linq.dll
