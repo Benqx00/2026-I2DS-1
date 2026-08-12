@@ -1,0 +1,15 @@
+C:\Users\DS1\Desktop\2026-I2DS\Aula-06\Filas\bin\Debug\net10.0\Filas.exe
+C:\Users\DS1\Desktop\2026-I2DS\Aula-06\Filas\bin\Debug\net10.0\Filas.deps.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-06\Filas\bin\Debug\net10.0\Filas.runtimeconfig.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-06\Filas\bin\Debug\net10.0\Filas.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-06\Filas\bin\Debug\net10.0\Filas.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-06\Filas\obj\Debug\net10.0\Filas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DS1\Desktop\2026-I2DS\Aula-06\Filas\obj\Debug\net10.0\Filas.AssemblyInfoInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-06\Filas\obj\Debug\net10.0\Filas.AssemblyInfo.cs
+C:\Users\DS1\Desktop\2026-I2DS\Aula-06\Filas\obj\Debug\net10.0\Filas.csproj.CoreCompileInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-06\Filas\obj\Debug\net10.0\Filas.sourcelink.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-06\Filas\obj\Debug\net10.0\Filas.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-06\Filas\obj\Debug\net10.0\refint\Filas.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-06\Filas\obj\Debug\net10.0\Filas.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-06\Filas\obj\Debug\net10.0\Filas.genruntimeconfig.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-06\Filas\obj\Debug\net10.0\ref\Filas.dll
