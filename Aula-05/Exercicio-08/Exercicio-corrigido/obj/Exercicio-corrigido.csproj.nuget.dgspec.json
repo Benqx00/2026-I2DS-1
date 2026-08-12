@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-08\\Exercicio-corrigido\\Exercicio-corrigido.csproj": {}
+    "C:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-08\\Exercicio-corrigido\\Exercicio-corrigido.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-08\\Exercicio-corrigido\\Exercicio-corrigido.csproj": {
+    "C:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-08\\Exercicio-corrigido\\Exercicio-corrigido.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-08\\Exercicio-corrigido\\Exercicio-corrigido.csproj",
+        "projectUniqueName": "C:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-08\\Exercicio-corrigido\\Exercicio-corrigido.csproj",
         "projectName": "Exercicio-corrigido",
-        "projectPath": "c:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-08\\Exercicio-corrigido\\Exercicio-corrigido.csproj",
+        "projectPath": "C:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-08\\Exercicio-corrigido\\Exercicio-corrigido.csproj",
         "packagesPath": "C:\\Users\\DS1\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-08\\Exercicio-corrigido\\obj\\",
+        "outputPath": "C:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-08\\Exercicio-corrigido\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DS1\\AppData\\Roaming\\NuGet\\NuGet.Config"

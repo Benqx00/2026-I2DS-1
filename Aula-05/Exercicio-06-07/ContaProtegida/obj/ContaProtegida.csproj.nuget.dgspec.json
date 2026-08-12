@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-06-07\\ContaProtegida\\ContaProtegida.csproj": {}
+    "C:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-06-07\\ContaProtegida\\ContaProtegida.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-06-07\\ContaProtegida\\ContaProtegida.csproj": {
+    "C:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-06-07\\ContaProtegida\\ContaProtegida.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-06-07\\ContaProtegida\\ContaProtegida.csproj",
+        "projectUniqueName": "C:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-06-07\\ContaProtegida\\ContaProtegida.csproj",
         "projectName": "ContaProtegida",
-        "projectPath": "c:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-06-07\\ContaProtegida\\ContaProtegida.csproj",
+        "projectPath": "C:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-06-07\\ContaProtegida\\ContaProtegida.csproj",
         "packagesPath": "C:\\Users\\DS1\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-06-07\\ContaProtegida\\obj\\",
+        "outputPath": "C:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-05\\Exercicio-06-07\\ContaProtegida\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DS1\\AppData\\Roaming\\NuGet\\NuGet.Config"
